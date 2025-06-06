@@ -71,6 +71,8 @@ Bar chart for elevation by local region
 
 Dynamic airport name display (e.g., Abu Road Airport)
 
+https://app.powerbi.com/groups/me/reports/779f67cd-e3a1-453d-a1b4-f4d1b8fe16a5/e882261ddba8ad86b555?experience=power-bi
+
 🚀 How to Use
 Clone the repository
 
